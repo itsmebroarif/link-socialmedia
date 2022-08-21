@@ -42,6 +42,11 @@ html {
   text-align: center;
 }
 
+.namaAku{
+  background-color: black;
+  color : #fff;
+}
+
 .link {
   display: flex;
   justify-content: center;
